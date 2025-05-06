@@ -1,0 +1,38 @@
+*{
+    justify-content: center;
+}
+form{
+    max-width: 400px;
+    margin: 20px auto; /* Center the form */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    
+   
+  
+  }
+
+button{
+    margin: 15px;
+}
+button:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;
+    cursor: pointer;
+}
+label {
+    font-weight: bold;
+    margin-bottom: 1px;
+    color: #333;
+  }
+
+  button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  .edit-button:hover {
+    background-color: #4CAF50;;
+  }
+ 
